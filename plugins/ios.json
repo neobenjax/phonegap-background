@@ -1,0 +1,79 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-background-mode": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.testapp.background"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.testapp.background"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.testapp.background"
+        }
+    }
+}
